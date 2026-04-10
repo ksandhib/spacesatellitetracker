@@ -1,0 +1,34 @@
+# 🚀 Space Satellite Tracker
+
+A full-stack AI-powered system for tracking satellites and predicting space debris collisions.
+
+## 🛠️ Tech Stack
+
+* Frontend: React.js
+* Backend: Python (Flask)
+* Database: MySQL
+* Visualization: Charts + UI Dashboard
+
+## ⚙️ Setup
+
+### 1. Start MySQL (XAMPP)
+
+### 2. Run Backend
+
+```bash
+cd backend
+venv\Scripts\activate
+python app.py
+```
+
+### 3. Run Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### 🌐 Access
+
+http://localhost:5173
